@@ -1,0 +1,30 @@
+body{
+    background-color: #1F2833;
+}
+
+h1{
+    color: #C5C6C7; ;
+}
+
+.h1{
+    background: #45576D ;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    height: 7vh;
+}
+
+.h2{
+    color: #45A29E;
+    
+}
+
+.p{
+    color: #C5C6C7;
+    margin: auto;
+}
+
+.smallcontainer {
+    width: 800px;
+    
+  }
